@@ -1,2 +1,2 @@
 # sport
-Pie chart to show distribution of sport..
+Pie chart showing distribution of sport..
